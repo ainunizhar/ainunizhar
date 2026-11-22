@@ -62,5 +62,5 @@ explorers for Singapore, Malaysia, Dallas and EMEA.
 
 ### Toolbox
 **Data:** Power BI · Power Query (M) · DAX · Excel (dynamic arrays) · data cleaning & validation · scoring models<br>
-**Code & AI:** Python · SQL · AI research agents · LLM output QA · Chrome extensions · n8n · MCP · Hugging Face · Claude Code<br>
+**Code & AI:** Python (pandas) · SQL · AI research agents · LLM output QA · REST APIs · n8n · Claude Code<br>
 **Certifications:** CompTIA Security+ · Cisco CyberOps Associate · Google Cybersecurity · IBM Cybersecurity Analyst
