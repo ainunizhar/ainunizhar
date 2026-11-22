@@ -32,6 +32,18 @@ and a Computer Forensic degree (MSU, CGPA 3.66) whose final-year deepfake detect
 Plus [**SME & Startup Prospect Explorer**](https://github.com/ainunizhar/SME-Startup-Prospect-Explorer): five prospect
 explorers for Singapore, Malaysia, Dallas and EMEA.
 
+### Market intelligence & AI automation
+<table>
+<tr>
+<td width="50%"><a href="https://github.com/ainunizhar/Market-Intelligence-Research-Engine"><img src="https://ainunizhar.github.io/assets/cases/research-engine.webp" alt="Market Intelligence Research Engine"></a><br><b><a href="https://github.com/ainunizhar/Market-Intelligence-Research-Engine">Market Intelligence Research Engine</a></b><br>3,500+ firms in 5 markets · evidence link + confidence on every answer</td>
+<td width="50%"><a href="https://github.com/ainunizhar/Warm-Introduction-Mapper"><img src="https://ainunizhar.github.io/assets/cases/warm-intro.webp" alt="Warm Introduction Mapper"></a><br><b><a href="https://github.com/ainunizhar/Warm-Introduction-Mapper">Warm Introduction Mapper</a></b><br>776 warm-intro paths · browser extension + ranking</td>
+</tr>
+<tr>
+<td><a href="https://github.com/ainunizhar/AI-Outreach-Quality-Checker"><img src="https://ainunizhar.github.io/assets/cases/outreach-qa.webp" alt="AI Outreach Quality Checker"></a><br><b><a href="https://github.com/ainunizhar/AI-Outreach-Quality-Checker">AI Outreach Quality Checker</a></b><br>Rule checks on AI-written emails · 292 repeated phrases to 0</td>
+<td><a href="https://github.com/ainunizhar/Ransomware-Claim-Triage"><img src="https://ainunizhar.github.io/assets/cases/ransomware.webp" alt="Ransomware Claim Triage"></a><br><b><a href="https://github.com/ainunizhar/Ransomware-Claim-Triage">Ransomware Claim Triage</a></b><br>144 leak-site claims tiered by evidence · gates before outreach</td>
+</tr>
+</table>
+
 ### More projects
 - **Excel & data validation:** [Two-Pass Research Reconciliation](https://github.com/ainunizhar/Two-Pass-Research-Reconciliation) ·
   [Cybersecurity Provider Screening Audit](https://github.com/ainunizhar/Cybersecurity-Provider-Screening-Audit), with
@@ -46,5 +58,5 @@ explorers for Singapore, Malaysia, Dallas and EMEA.
 
 ### Toolbox
 **Data:** Power BI · Power Query (M) · DAX · Excel (dynamic arrays) · data cleaning & validation · scoring models<br>
-**Code & AI:** Python · SQL · n8n · MCP · Hugging Face · Claude Code<br>
+**Code & AI:** Python · SQL · AI research agents · LLM output QA · Chrome extensions · n8n · MCP · Hugging Face · Claude Code<br>
 **Certifications:** CompTIA Security+ · Cisco CyberOps Associate · Google Cybersecurity
