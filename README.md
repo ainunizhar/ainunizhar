@@ -21,7 +21,7 @@ and a Computer Forensic degree (MSU, CGPA 3.66) whose final-year deepfake detect
 </tr>
 <tr>
 <td><a href="https://github.com/ainunizhar/Malaysia-Cybersecurity-Channel-Map"><img src="https://ainunizhar.github.io/assets/posters/malaysia.webp" alt="Malaysia Cybersecurity Channel Map"></a><br><b><a href="https://github.com/ainunizhar/Malaysia-Cybersecurity-Channel-Map">Malaysia Cybersecurity Channel Map</a></b><br>193 firms · decomposition tree · service fingerprints</td>
-<td><a href="https://github.com/ainunizhar/Singapore-Cybersecurity-Partner-Scorecard"><img src="https://ainunizhar.github.io/assets/posters/singapore.webp" alt="Singapore Cybersecurity Partner Scorecard"></a><br><b><a href="https://github.com/ainunizhar/Singapore-Cybersecurity-Partner-Scorecard">Singapore Cybersecurity Partner Scorecard</a></b><br>152 partners scored 1–5 · credential badges</td>
+<td><a href="https://github.com/ainunizhar/Singapore-Cybersecurity-Partner-Scorecard"><img src="https://ainunizhar.github.io/assets/posters/singapore.webp" alt="Singapore Cybersecurity Partner Scorecard"></a><br><b><a href="https://github.com/ainunizhar/Singapore-Cybersecurity-Partner-Scorecard">Singapore Cybersecurity Partner Scorecard</a></b><br>152 partners scored 1-5 · credential badges</td>
 </tr>
 <tr>
 <td><a href="https://github.com/ainunizhar/Cybersecurity-Events-Radar"><img src="https://ainunizhar.github.io/assets/posters/events.webp" alt="Cybersecurity Events Radar"></a><br><b><a href="https://github.com/ainunizhar/Cybersecurity-Events-Radar">Cybersecurity Events Radar</a></b><br>451 public events · day-by-day heatmap · Power BI + Excel</td>
