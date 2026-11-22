@@ -9,10 +9,16 @@ Selangor, Malaysia · open to Data Analyst roles
 
 </div>
 
-I turn messy market research into clean, scored data and dashboards people use: a year researching cybersecurity
-markets with AI pipelines I built at **Delta Spike Asia**, 7 Power BI dashboards for the cybersecurity leadership at
-**PETRONAS Digital** (internship),
-and a Computer Forensic degree (MSU, CGPA 3.66) whose final-year deepfake detector won a **gold medal at iReX 2024**.
+**I build AI pipelines and dashboards that help teams make faster decisions.**
+
+My work covers market research, prospect scoring and competitor tracking, automated with Python, SQL and AI tools.
+One project I'm proud of: an [AI-driven vulnerability assessment platform](https://github.com/ainunizhar/AI-Vulnerability-Assessment-Agent),
+presented to a national cybersecurity agency.
+
+A 2025 Computer Forensics graduate with a cybersecurity background, I bring both data skills and security knowledge
+to the table.
+
+Open to roles in data analytics, AI automation and market intelligence.
 
 ### Power BI dashboards
 <table>
