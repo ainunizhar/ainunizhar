@@ -2,8 +2,8 @@
 
 # Hi, I'm Ainun Izhar
 
-**Data & BI Analyst** · Power BI · Power Query · DAX · Excel · Python · AI automation<br>
-Selangor, Malaysia · open to BI / Data Analyst roles
+**Data Analyst** · Power BI · Power Query · DAX · Excel · Python · AI automation<br>
+Selangor, Malaysia · open to Data Analyst roles
 
 [**Portfolio website**](https://ainunizhar.github.io) · [**LinkedIn**](https://www.linkedin.com/in/ainunizhar)
 
