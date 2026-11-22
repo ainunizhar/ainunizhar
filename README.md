@@ -10,7 +10,8 @@ Selangor, Malaysia · open to Data Analyst roles
 </div>
 
 I turn messy market research into clean, scored data and dashboards people use: a year researching cybersecurity
-markets with AI pipelines I built at **Delta Spike Asia**, Power BI dashboards as an intern at **PETRONAS Digital**,
+markets with AI pipelines I built at **Delta Spike Asia**, 7 Power BI dashboards for the cybersecurity leadership at
+**PETRONAS Digital** (internship),
 and a Computer Forensic degree (MSU, CGPA 3.66) whose final-year deepfake detector won a **gold medal at iReX 2024**.
 
 ### Power BI dashboards
@@ -52,6 +53,9 @@ explorers for Singapore, Malaysia, Dallas and EMEA.
   [Competitive Intelligence Digest Pipeline](https://github.com/ainunizhar/Competitive-Intelligence-Digest-Pipeline) ·
   [ASEAN Cybersecurity Market Outlook](https://github.com/ainunizhar/ASEAN-Cybersecurity-Market-Outlook) ·
   [Partner Enablement Portal Demo](https://ainunizhar.github.io/Partner-Enablement-Portal-Demo/)
+- **Internship, PETRONAS Digital (2025):** 7 Power BI dashboards for the Cyber Security Division (security
+  architecture KPIs, system assets register, BYOC removal tracker with daily SharePoint refresh, entity master data),
+  presented to the General Manager and leadership teams. Internal data, so no screenshots.
 - **Bachelor projects:** [MediaForensiX deepfake detector](https://github.com/ainunizhar/AI-System-Deepfake-Detector)
   (🥇 gold medal, iReX 2024) · [PlutoAI chatbot](https://github.com/ainunizhar/OpenAI-Powered-Chatbots) ·
   [TaskMaster Android app](https://github.com/ainunizhar/Android-App-To-Do-List)
@@ -59,4 +63,4 @@ explorers for Singapore, Malaysia, Dallas and EMEA.
 ### Toolbox
 **Data:** Power BI · Power Query (M) · DAX · Excel (dynamic arrays) · data cleaning & validation · scoring models<br>
 **Code & AI:** Python · SQL · AI research agents · LLM output QA · Chrome extensions · n8n · MCP · Hugging Face · Claude Code<br>
-**Certifications:** CompTIA Security+ · Cisco CyberOps Associate · Google Cybersecurity
+**Certifications:** CompTIA Security+ · Cisco CyberOps Associate · Google Cybersecurity · IBM Cybersecurity Analyst
